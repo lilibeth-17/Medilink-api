@@ -5,6 +5,7 @@ titulo: Sistema Web de Gestión de Citas Médicas y Teleconsultas "MEDILINK"
 integrantes:
 -antiquera farfan ronaldi isacc u22208906
 -Campos Toribia Liliana lilibeth
+-Vasquez Quispe Uriel u23227010
 
 docente: Milla Flores Jose Luis
 
